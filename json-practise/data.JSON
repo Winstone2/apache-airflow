@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Jeffrey Pace",
+        "address": "822 Jacob Park\nEast Amyfurt, OR 89981",
+        "email": "kwilliams@example.net",
+        "phone_number": "534.995.6218x7579",
+        "job": "Hotel manager",
+        "company": "Miller, Duran and Hampton",
+        "birthdate": "2001-04-29"
+    },
+    {
+        "name": "Justin Zuniga",
+        "address": "269 Carter Vista Apt. 095\nPort Johnborough, FL 33932",
+        "email": "drew71@example.org",
+        "phone_number": "+1-646-452-4685x6657",
+        "job": "Clinical biochemist",
+        "company": "Hamilton, Sandoval and White",
+        "birthdate": "1962-06-11"
+    },
+    {
+        "name": "Tracy Bryant",
+        "address": "6186 Kayla Drive\nJohnfurt, NE 99825",
+        "email": "tware@example.net",
+        "phone_number": "(872)715-0679x6237",
+        "job": "Therapist, music",
+        "company": "Fuller Ltd",
+        "birthdate": "1914-02-22"
+    },
+    {
+        "name": "Brandon Johnson",
+        "address": "68149 Lewis Garden Apt. 052\nRichardsonburgh, WV 46264",
+        "email": "ryanmoss@example.com",
+        "phone_number": "(825)840-6195",
+        "job": "Race relations officer",
+        "company": "Hardy-Harrell",
+        "birthdate": "1929-11-09"
+    },
+    {
+        "name": "Dylan Harrison",
+        "address": "658 Griffin Road\nWest Donna, ID 45390",
+        "email": "danielsedward@example.net",
+        "phone_number": "748-560-4084x11306",
+        "job": "Media buyer",
+        "company": "Nichols, Schwartz and Wilson",
+        "birthdate": "1929-01-16"
+    },
+    {
+        "name": "Melissa Shaw",
+        "address": "5760 Nicholson Tunnel Apt. 528\nRebeccahaven, AZ 13414",
+        "email": "williamsryan@example.net",
+        "phone_number": "4222073492",
+        "job": "Garment/textile technologist",
+        "company": "Smith-Paul",
+        "birthdate": "2003-05-05"
+    },
+    {
+        "name": "Troy Hughes",
+        "address": "Unit 6585 Box 7793\nDPO AA 76601",
+        "email": "emilyortiz@example.com",
+        "phone_number": "414-489-6766x5827",
+        "job": "Television production assistant",
+        "company": "Fry, King and Bruce",
+        "birthdate": "1983-11-25"
+    },
+    {
+        "name": "Allison Martin",
+        "address": "788 Zimmerman Village Suite 295\nAnnastad, PW 69223",
+        "email": "mosesheather@example.com",
+        "phone_number": "+1-629-268-7226",
+        "job": "Trade mark attorney",
+        "company": "King-Holt",
+        "birthdate": "1957-10-04"
+    },
+    {
+        "name": "Stephanie Harris",
+        "address": "4963 David Mill Apt. 108\nScottland, TN 80119",
+        "email": "burchallison@example.org",
+        "phone_number": "787.733.7343",
+        "job": "IT technical support officer",
+        "company": "White, Smith and Larson",
+        "birthdate": "1995-08-18"
+    },
+    {
+        "name": "Blake Carpenter",
+        "address": "PSC 1492, Box 9906\nAPO AE 52750",
+        "email": "mcneilsusan@example.net",
+        "phone_number": "717.298.3650x22557",
+        "job": "Games developer",
+        "company": "Powers, Harrison and Wright",
+        "birthdate": "1934-02-27"
+    }
+]
